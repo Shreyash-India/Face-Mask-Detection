@@ -71,5 +71,5 @@ Run .ipynb Notebook
 
 
 ## 🚀 About Me
-I'm a Data Science Entusiast
+I'm a Data Science Enthusiast
 
