@@ -43,7 +43,7 @@ Run .ipynb Notebook
 
 
 ## Inference
-&#10686; This is a Deep Neural Network Face Mask Detection Project trained in Keras with over 7500+ Data points which, includes Samples of Person "With" & "Without" MASK.
+&#10686; This is a Deep Neural Network Face Mask Detection Model trained in Keras with over 7500+ Data points which, includes Samples of Person "With" & "Without" MASK.
  
 &#10686; It is a Bi-class Classification CNN Model which predicts whether the Person has "Weared" Mask or "Not Weared" Mask.
 
