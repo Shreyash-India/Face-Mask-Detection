@@ -6,7 +6,7 @@ Face Mask Detection
 
 [Full source code](https://drive.google.com/drive/folders/1kJ5WHaMHF2sCmxL-F1EcCOUmH48Hj77Y?usp=sharing)
 
-## Authors
+## Author
 
 - [@Shreyash](https://github.com/Shreyash-India)
 
