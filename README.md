@@ -21,7 +21,7 @@ Clone the project
 Install project dependencies
 
 ```bash
-  install packages & Dependencies
+  Install packages & Dependencies
   1 Tensorflow 2.0 Environment
   2 numpy
   3 cv2
