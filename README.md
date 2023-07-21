@@ -18,32 +18,19 @@ Clone the project
   git clone https://github.com/Shreyash-India/Face-Mask-Detection.git
 ```
 
-Go to the project directory
-
-```bash
-   cd Face-Mask-Detection
-```
-
-Install dependencies
+Install project dependencies
 
 ```bash
   install packages & Dependencies
-  1 >> Tensorflow 2.0 Environment
-  2 >> numpy
-  3 >> cv2
-  4 >> matplotlib
-  5 >> scikit learn
+  1 Tensorflow 2.0 Environment
+  2 numpy
+  3 cv2
+  4 matplotlib
+  5 scikit learn
 ```
-
-Run .ipynb Notebook
-
-```bash
-  run Prediction.ipynb
-```
-
 
 ## Inference
-&#10686; This is a Deep Neural Network Face Mask Detection Model trained in Keras with over 7500+ Data points which, includes Samples of Person "With" & "Without" MASK.
+&#10686; This is a Deep Neural Network Face Mask Detection Model trained in Keras Framework with over 7500+ Data points which, includes Samples of Person "With" & "Without" MASK.
  
 &#10686; It is a Bi-class Classification CNN Model which predicts whether the Person has "Weared" Mask or "Not Weared" Mask.
 
@@ -71,8 +58,3 @@ Run .ipynb Notebook
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## 🚀 About Me
-I'm a Data Science Entusiast
-
