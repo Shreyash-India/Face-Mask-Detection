@@ -2,41 +2,26 @@
 # Project Title
 Face Mask Detection
 
-## Source Code
-
-[Full source code](https://drive.google.com/drive/folders/1kJ5WHaMHF2sCmxL-F1EcCOUmH48Hj77Y?usp=sharing)
-
 ## Author
 
 - [@Shreyash](https://github.com/Shreyash-India)
 
-## Run Locally
 
-Clone the project
+## Motivation
+The motivation behind the development of this Face Mask Detection project stemmed from the critical need to enforce public health measures during the COVID-19 pandemic. With face masks being a key tool in preventing the spread of infectious diseases, automating the process of detecting whether individuals are wearing masks became imperative for various establishments, including public transport systems, workplaces, and retail spaces. This project aims to contribute to the collective effort in ensuring public safety by providing a robust and efficient solution for face mask detection.
 
-```bash
-  git clone https://github.com/Shreyash-India/Face-Mask-Detection.git
-```
+## [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+The core of this project lies in the utilization of Convolutional Neural Networks (CNNs) - a class of deep neural networks particularly adept at processing visual data. By leveraging CNNs, we can effectively extract intricate features from images, enabling precise classification between individuals wearing masks and those without. The architecture of the CNN employed in this project has been meticulously designed and trained on a substantial dataset to achieve high accuracy and reliability in face mask detection tasks
 
-Install project dependencies
-
-```bash
-  Install packages & Dependencies
-  1 Tensorflow 2.0 Environment
-  2 numpy
-  3 cv2
-  4 matplotlib
-  5 scikit learn
-```
 
 ## Inference
-&#10686; This is a Deep Neural Network Face Mask Detection Model trained in Keras Framework with over 7500+ Data points which, includes Samples of Person "With" & "Without" MASK.
+➤ A Deep Neural Network Face Mask Detection Model trained in Keras Framework with over 7500+ Data points which, includes Samples of Person "With" & "Without" MASK.
  
-&#10686; It is a Bi-class Classification CNN Model which predicts whether the Person has "Weared" Mask or "Not Weared" Mask.
+➤ It is a Bi-class Classification CNN Model which predicts whether the Person has "Weared" Mask or "Not Weared" Mask.
 
-&#10686; It also has a "Real time Face Mask Detection" Functionality built with open-cv & Face recognization cascade Classifier.
+➤ It also has a "Real time Face Mask Detection" Functionality built with open-cv & Face recognization cascade Classifier.
 
-&#10686; Model has an Accuracy of 89%
+➤ Model has an Accuracy of 89%
 ## Screenshots
 
 [&#10687; Person Without "Mask"](https://drive.google.com/file/d/14sGQtxhn0bsm4Vw2q2wMEwQ8dGMW5U-5/view?usp=sharing)
@@ -44,17 +29,30 @@ Install project dependencies
 [&#10687; Person With "Mask"](https://drive.google.com/file/d/1maLq1QFw0AUdAmduGxtpKG7d9E-zAqzc/view?usp=sharing)
 
 
+## Project dependencies
+
+```bash
+  In Tensorflow 2.0 Environment build the project with below packages 
+  1 Tensorflow 2.0
+  2 numpy
+  3 cv2
+  4 matplotlib
+  5 scikit learn
+```
+
 ## Documentation
 
-[&#10686; Python](https://docs.python.org/3/)
+[Python](https://docs.python.org/3/)
 
-[&#10686; Keras](https://keras.io/)
+[Keras](https://keras.io/)
 
-[&#10686; Tensorflow 2.0](https://www.tensorflow.org/guide/effective_tf2)
+[Tensorflow 2.0](https://www.tensorflow.org/guide/effective_tf2)
 
-[&#10686; matplotlib](https://matplotlib.org/)
-
-[&#10686; sklearn](https://scikit-learn.org/stable/)
+[sklearn](https://scikit-learn.org/stable/)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Source Code
+
+[Full source code](https://drive.google.com/drive/folders/1kJ5WHaMHF2sCmxL-F1EcCOUmH48Hj77Y?usp=sharing)
