@@ -24,9 +24,12 @@ The core of this project lies in the utilization of Convolutional Neural Network
 ➤ Model has an Accuracy of 89%
 ## Screenshots
 
-[&#10687; Person Without "Mask"](https://drive.google.com/file/d/14sGQtxhn0bsm4Vw2q2wMEwQ8dGMW5U-5/view?usp=sharing)
+➤ Person "without Mask"
+![1640264342576](https://github.com/Shreyash-India/Face-Mask-Detection/assets/78295521/f837c575-88ff-476f-b8eb-9f02107f06db)
 
-[&#10687; Person With "Mask"](https://drive.google.com/file/d/1maLq1QFw0AUdAmduGxtpKG7d9E-zAqzc/view?usp=sharing)
+
+➤ Person "with Mask"
+![1640264342619](https://github.com/Shreyash-India/Face-Mask-Detection/assets/78295521/5d906b0c-6f10-416c-a221-1a87f8f59c5d)
 
 
 ## Project dependencies
